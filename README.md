@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Alex 👋
 
 <!--
 **Alexk0309/Alexk0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>Fresh graduate from Sunway University<br>Email: karshengcheah@gmail.com<br>LinkedIn: https://www.linkedin.com/in/cheah-kar-sheng-33299a1b9/</p>
