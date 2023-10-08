@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Fresh graduate from Sunway University<br>Email: karshengcheah@gmail.com<br>LinkedIn: https://www.linkedin.com/in/cheah-kar-sheng-33299a1b9/<br>Portfolio: https://alexk0309.github.io/Alexk0309-Portfolio/</p>
+<p>Fresh graduate from Sunway University<br>Email: karshengcheah@gmail.com<br>LinkedIn: https://www.linkedin.com/in/cheah-kar-sheng-33299a1b9/<br>Portfolio: https://alexcheah.vercel.app</p>
