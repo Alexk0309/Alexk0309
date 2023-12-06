@@ -16,6 +16,7 @@
 <img src="./images/typescript.png" alt="Typescript" style="width: 50px; height: auto;">
 <img src="./images/react.png" alt="React" style="width: 50px; height: auto;">
 <img src="./images/next.png" alt="Next" style="width: 50px; height: auto;">
+<img src="./images/python.png" alt="Python" style="width: 50px; height: auto;">
 <img src="./images/java.png" alt="Java" style="width: 50px; height: auto;">
 <img src="./images/node.png" alt="Node" style="width: 50px; height: auto;">
 <img src="./images/spring.png" alt="Spring" style="width: 50px; height: auto;">
@@ -25,10 +26,7 @@
 
 <br></br>
 ### 📫 Connect with me
-[![Linkedin](./images/linkedin.png "Linkedin")](https://www.linkedin.com/in/daniel-wong-yu-heng-276b0021a/)
-[![Instagram](./images/instagram.png "Instagram")](https://www.instagram.com/danielwyh_/)
-[![Github](./images/github.png "Github")](https://github.com/0xDanW)
-[![Discord](./images/discord.png "Discord")](http://discordapp.com/users/619386770475188234)
-[![Email](./images/mail.png "Email")](mailto:danielwyh.hello@gmail.com)
+<a src="https://www.linkedin.com/in/cheah-kar-sheng-33299a1b9/"><img src="./images/linkedin.png" alt="LinkedIn" style="width: 50px; height: auto;"></a>
+<a src="mailto:karshengcheah@gmail.com"><img src="./images/mail.png" alt="Mail" style="width: 50px; height: auto;"></a>
 
 </div>
