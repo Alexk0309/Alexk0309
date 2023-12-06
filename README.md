@@ -1,4 +1,4 @@
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=2FF704&center=true&random=false&width=435&lines=Hi%2C+I'm+Alex+Cheah" alt="Typing SVG" /></a></div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=60&pause=1000&color=00FF5B&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Alex+Cheah)](https://git.io/typing-svg)
 
 ----
 <p align='center'><b>Computer Science Graduate | Software Engineer | Backend & Frontend</b></p>
