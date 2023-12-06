@@ -26,7 +26,7 @@
 
 <br></br>
 ### 📫 Connect with me
-<a src="https://www.linkedin.com/in/cheah-kar-sheng-33299a1b9/"><img src="./images/linkedin.png" alt="LinkedIn" style="width: 50px; height: auto;"></a>
-<a src="mailto:karshengcheah@gmail.com"><img src="./images/mail.png" alt="Mail" style="width: 50px; height: auto;"></a>
+<a href="https://www.linkedin.com/in/cheah-kar-sheng-33299a1b9/"><img src="./images/linkedin.png" alt="LinkedIn" style="width: 50px; height: auto;"></a>
+<a href="mailto:karshengcheah@gmail.com"><img src="./images/mail.png" alt="Mail" style="width: 50px; height: auto;"></a>
 
 </div>
